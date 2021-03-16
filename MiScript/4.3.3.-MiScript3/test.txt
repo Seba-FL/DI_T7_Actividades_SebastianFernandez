@@ -1,0 +1,1 @@
+Hola mundo soy un fichero que estara en el instalador, saludos
