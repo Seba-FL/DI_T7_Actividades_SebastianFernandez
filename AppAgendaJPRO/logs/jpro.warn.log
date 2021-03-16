@@ -1,0 +1,166 @@
+2021-03-16 10:08:26,831 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:10:49,041 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:12:04,963 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:14:27,636 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:19:45,203 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-17 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:19:50,250 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-14 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:19:55,790 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-14 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:20:01,872 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:20:08,565 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-13 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:26,014 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:21:26,073 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:31,120 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:36,658 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:42,758 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:49,472 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:21:56,833 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:22:04,920 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-7 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:22:09,088 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-5 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:26:42,506 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:26:42,542 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:26:47,657 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-2 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:26:53,191 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:26:59,284 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:27:05,989 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:27:13,350 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:27:21,461 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 10:43:16,334 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 10:48:33,222 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 18:25:39,591 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:25:39,608 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 18:25:44,709 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-2 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:25:50,315 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:25:56,456 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:26:03,188 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:26:10,591 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:29:16,813 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:29:27,653 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-15 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:29:37,661 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-19 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:29:42,607 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-15 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:36:23,187 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-2 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:44:06,948 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!undefined" does not exist!
+2021-03-16 18:44:12,024 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!undefined" does not exist!
+2021-03-16 18:44:17,598 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!undefined" does not exist!
+2021-03-16 18:44:40,095 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!undefined" does not exist!
+2021-03-16 18:46:21,672 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:46:26,752 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:46:32,350 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:46:38,490 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:46:40,965 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 18:46:41,054 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!undefined" does not exist!
+2021-03-16 19:39:04,374 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - jpro.plainFile - Couldn't get resource for: 'jpro/html/favicon.ico'
+2021-03-16 19:39:04,419 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:10:51,234 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:10:56,315 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:01,905 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:08,023 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:14,723 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:22,093 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-9 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:30,229 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-2 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:39,188 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:49,002 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-6 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:11:59,799 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:13:03,340 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:13:21,882 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-8 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:13:23,156 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-10 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:19:38,854 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-3 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:22:13,555 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-7 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:22:18,307 [WARN] from controllers.jpro in application-akka.actor.default-dispatcher-4 - The requested application "0!appagendajpro" does not exist!
+2021-03-16 20:26:34,091 [ERROR] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Error while processing the input: MouseEventToken(MouseReleased,94.0,29.0,MouseButtonToken(3),false,false,false,false,false,false,false,false) app: stage title: App Agenda
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at simplefx.util.ReflectionUtil$UseReflection.applyDynamic(ReflectionUtil.scala:21)
+	at com.jpro.meta.tk.SceneInputListener.processInputInScene(SceneInputListener.scala:169)
+	at com.jpro.meta.tk.SceneInputListener.processInput(SceneInputListener.scala:117)
+	at com.jpro.meta.tk.SceneInputListener.processInputs(SceneInputListener.scala:98)
+	at com.jpro.meta.tk.SceneInputListener.$anonfun$new$4(SceneInputListener.scala:39)
+	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runAsAnimation$1(CoreTimeEvent.scala:64)
+	at simplefx.cores.standard.parts.CoreTimeEvent$$anon$2.handle(CoreTimeEvent.scala:46)
+	at javafx.animation.AnimationTimer$AnimationTimerReceiver.lambda$handle$0(AnimationTimer.java:57)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
+	at javafx.animation.AnimationTimer$AnimationTimerReceiver.handle(AnimationTimer.java:56)
+	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:357)
+	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:525)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:509)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:502)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$12(QuantumToolkit.java:326)
+	at com.sun.glass.ui.monocle.RunnableProcessor.runLoop(RunnableProcessor.java:92)
+	at com.sun.glass.ui.monocle.RunnableProcessor.run(RunnableProcessor.java:51)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.GeneratedMethodAccessor19.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at simplefx.util.ReflectionUtil$UseReflection.applyDynamic(ReflectionUtil.scala:21)
+	at com.sun.glass.ui.monocle.input.fork.NativeMouseInput.notifyMouse(NativeMouseInput.scala:330)
+	at com.sun.glass.ui.monocle.input.fork.NativeMouseInput.postMouseEvent(NativeMouseInput.scala:226)
+	at com.sun.glass.ui.monocle.input.fork.NativeMouseInput.setState(NativeMouseInput.scala:186)
+	... 22 common frames omitted
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1787)
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1670)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Node.fireEvent(Node.java:8890)
+	at javafx.scene.control.Button.fire(Button.java:200)
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:206)
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3851)
+	at javafx.scene.Scene$MouseHandler.access$1200(Scene.java:3579)
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1849)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2588)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:397)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:389)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:434)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:396)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:433)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:556)
+	at com.sun.glass.ui.View.notifyMouse(View.java:942)
+	at com.sun.glass.ui.monocle.MonocleView.notifyMouse(MonocleView.java:116)
+	... 29 common frames omitted
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:273)
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:83)
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1782)
+	... 74 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at AppAgendaJPRO.PersonaDetalleViewController.setPersona(PersonaDetalleViewController.java:98)
+	at AppAgendaJPRO.AgendaViewController.onActionButtonEditar(AgendaViewController.java:180)
+	... 85 common frames omitted
